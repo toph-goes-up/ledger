@@ -1,0 +1,13 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Chris Kinsey -- Developer and Designer -- @isTophski
+
+# THANKS
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Node.js, jQuery, Modernizr, Normalize.css
